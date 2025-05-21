@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: huvck87l3-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/huvck87l3-python
